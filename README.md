@@ -3,6 +3,8 @@
 A compact, industry-grade power management PCB designed to charge, protect, and regulate a single-cell Li-Ion battery to provide a stable **3.3V output** for an ESP32 microcontroller.
 
 > Designed as a complete battery management solution — not just a regulator, but a full charge-discharge-monitor system ready for product integration.
+> <img width="1325" height="705" alt="Screenshot 2026-06-02 234543" src="https://github.com/user-attachments/assets/510e8d22-5472-4f8a-ac41-1b95cfa05c21" />
+
 
 ---
 
